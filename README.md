@@ -6,11 +6,17 @@ Welcome to the WaffleTron Cyberdeck project! 🚀
 
 The WaffleTron Cyberdeck is not your average cyberdeck. It's a fusion of style, innovation, and functionality, designed to empower your digital adventures in ways you've never imagined. Whether you're a cyberpunk enthusiast, a DIY hacker, or just someone who appreciates the extraordinary, the WaffleTron is your gateway to a world of limitless possibilities.
 
+# Notice!
+This is currently a work in progress. Do Not attempt to make anything in this repository
+
 # Features
 
-## TeaWhore / Tea9 Keyboard Layout
+## Tea9 Keyboard Layout
 
-The centerpiece of the WaffleTron Cyberdeck is its unique 24-key keyboard layout, named "TeaWhore" or "Tea9." This ergonomic and intuitive layout is designed to maximize typing efficiency while maintaining a compact form factor.
+The centerpiece of the WaffleTron Cyberdeck is its unique 24-key keyboard layout, named "Tea9" or "TeaWhore". It is a tap-input style layout, optimized based on character frequency.
+
+![Tea9](https://github.com/Zoestra/WaffleTron-Cyberdeck/assets/79121105/6e45359b-84d2-4202-a9f6-5a7601340eb0)
+
 
 ## Full Analog Game Controller Layout
 
