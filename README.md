@@ -26,6 +26,9 @@ Gamers, rejoice! The WaffleTron comes equipped with a full analog game controlle
 
 Explore the airwaves with the built-in Software-Defined Radio (SDR). Listen to, decode, and analyze a wide range of signals, from radio broadcasts to wireless protocols.
 
+## NFC and RFID Support
+Effortlessly interact with NFC and RFID devices and cards. The WaffleTron is equipped with built-in support for these technologies, opening up a world of possibilities for access control, data exchange, and automation.
+
 ## 7" Touchscreen
 
 Interact with your digital world through the vibrant 7" touchscreen display. Whether you're browsing the web, running applications, or configuring your cyberdeck, the touchscreen makes it a breeze.
