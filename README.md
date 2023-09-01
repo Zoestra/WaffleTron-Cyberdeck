@@ -49,7 +49,7 @@ And this is just the beginning. The WaffleTron Cyberdeck is a platform for creat
 
 # License
 
-The WaffleTron Cyberdeck project is open-source and released under the . Feel free to use, modify, and share the project according to the terms of the license.
+The WaffleTron Cyberdeck project is open-source and released under the  GPL-3.0 license. Feel free to use, modify, and share the project according to the terms of the license.
 
 Join us on this exciting journey as we redefine what a cyberdeck can be. Happy hacking! 🌐🔌🎮🚀
 
